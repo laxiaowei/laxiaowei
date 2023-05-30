@@ -170,3 +170,4 @@ def replace_text_img(doc, old_word, new_word):
                     else:
                         # 替换为文本
                         cell.text = str(value)
+print("a")
