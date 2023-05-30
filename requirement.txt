@@ -1,0 +1,9 @@
+pymysql
+flask-sqlalchemy
+Flask
+ffmpeg-python
+opencv_python
+cryptography
+SQLAlchemy
+SQLAlchemy-serializer
+python-docx
