@@ -172,3 +172,4 @@ def replace_text_img(doc, old_word, new_word):
                         cell.text = str(value)
 print("a")
 print("b")
+print("c")
